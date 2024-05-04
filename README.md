@@ -106,3 +106,8 @@ Integrade examples with LLM using Langchain, Huggingface pipeline, LamaIndex, or
 
 
 
+## Other examples
+
+- **Deploy your Java App for free**: Build and deploy your java application for free [here](https://medium.com/@visrow/deploy-spring-boot-app-on-hugging-face-for-free-92439db78701?source=user_profile---------7----------------------------)
+- **Mock your Rest Application for Free**: Create mocks for your rest application [here](https://medium.com/@visrow/rest-api-mocking-on-hugging-face-using-prism-8c0d35999513?source=user_profile---------6----------------------------)
+- **Chaos Engineering**: What is Chaos Engineering and how can you make practical use of it [here](https://www.linkedin.com/pulse/significance-chaos-engineering-financial-institutions-row-mysore/?trackingId=1NRaW4duQj%2BOxyLnx4m9IA%3D%3D)
