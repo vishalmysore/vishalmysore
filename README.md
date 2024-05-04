@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🚀 Experience: Proven background in designing and developing state-of-the-art cloud-native technical solutions tailored to meet business needs.
 
-💡 Innovation: Hold multiple patents in field of Software Engineering and Artificial Intelligence, [Here](https://patents.google.com/patent/US11924027B1/), and [Here] (https://patents.google.com/patent/US11847046B1)
+💡 Innovation: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.google.com/patent/US11924027B1/), and [Here](https://patents.google.com/patent/US11847046B1)
 
 🌐 Current Focus: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
 
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ## Tools4AI
 
-- **Action Processor**: Execute actions based on prompt (OpenAI, Gemini, Anthropic) [here](https://www.linkedin.com/pulse/large-action-model-gemini-java-vishal-mysore-qki8c?trackingId=MuqKH2YZNwe74wisqhMSuw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
-- **Image Processor**: Trigger actions based on images [here](https://www.linkedin.com/pulse/image-recognition-function-calling-gemini-java-vishal-mysore-sz5zc?trackingId=lpJITsmYD0XPgdaG676jmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
-- **Autonomous Agent**: Execute tasks based on scripts [here](https://www.linkedin.com/pulse/enterprise-ai-hub-llm-agent-built-openai-java-vishal-mysore-0p7oc?trackingId=qE91gQ%2Bngtn4vI45pxJEgg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
-- **Image to Text**: Convert images to text[here](https://www.linkedin.com/pulse/selenium-ai-automation-image-processing-gemini-vishal-mysore-fihwc?trackingId=8N9y2fCuYRDzmju9dREwVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
+- **How to build AI Action Processor**: Execute actions based on prompt (OpenAI, Gemini, Anthropic) [here](https://www.linkedin.com/pulse/large-action-model-gemini-java-vishal-mysore-qki8c?trackingId=MuqKH2YZNwe74wisqhMSuw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
+- **Process images with Image Processor**: Trigger actions based on images [here](https://www.linkedin.com/pulse/image-recognition-function-calling-gemini-java-vishal-mysore-sz5zc?trackingId=lpJITsmYD0XPgdaG676jmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
+- **Build AI Autonomous Agent**: Execute tasks based on scripts [here](https://www.linkedin.com/pulse/enterprise-ai-hub-llm-agent-built-openai-java-vishal-mysore-0p7oc?trackingId=qE91gQ%2Bngtn4vI45pxJEgg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
+- **Convert Image to Text**: Convert images to text[here](https://www.linkedin.com/pulse/selenium-ai-automation-image-processing-gemini-vishal-mysore-fihwc?trackingId=8N9y2fCuYRDzmju9dREwVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
 - **Image to Pojo**: Convert images to Pojo [here](https://www.linkedin.com/pulse/selenium-ai-automation-image-processing-gemini-vishal-mysore-fihwc?trackingId=8N9y2fCuYRDzmju9dREwVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
 - **Image to Json**: Convert images to Json [here](https://www.linkedin.com/pulse/selenium-ai-automation-image-processing-gemini-vishal-mysore-fihwc?trackingId=8N9y2fCuYRDzmju9dREwVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
 - **Image to XML**: Convert images to XML[here](https://www.linkedin.com/pulse/selenium-ai-automation-image-processing-gemini-vishal-mysore-fihwc?trackingId=8N9y2fCuYRDzmju9dREwVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
