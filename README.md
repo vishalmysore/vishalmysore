@@ -105,14 +105,4 @@ Integrade examples with LLM using Langchain, Huggingface pipeline, LamaIndex, or
 | [Vector_Example.ipynb](examples/Vector_Example.ipynb)                    | Pipeline  | Vector Basic                                                                         | [Vector Databases](https://www.linkedin.com/pulse/natural-language-processing-vectors-vishal-mysore-inarc%3FtrackingId=JXByV%252BRHEuy1HINVpwmzWQ%253D%253D/?trackingId=JXByV%2BRHEuy1HINVpwmzWQ%3D%3D)                                                                                                                                                                               |
 
 
-## Deployments
 
-Deployments using Git Hub Codespace, RunPod, Vast.ai, Together.ai, Paperspace
-
-## PromptEngineering
-
-Manifest , Promptify
-
-
-## Tools
-Colab, Kaggle, LmStudio
