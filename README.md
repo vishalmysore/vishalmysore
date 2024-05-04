@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 🌐 Current Focus: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
 
-🏆 Leadership: Track record of successfully leading enterprise-level initiatives, fostering collaboration across functional groups, and implementing strategic decisions that bring clarity and measurable growth.
-
-👥 Team Motivation: Demonstrated success in motivating both in-house and outsourced teams, ensuring the successful delivery of critical high-investment projects.
-
 🔧 Technical Expertise: Key strengths include crafting technology roadmaps, designing platforms, and implementing automation solutions for intricate business workflows, resulting in cost savings and streamlined operations.
 
 💼 Versatile Experience: Worked across diverse domains, from finance (capital markets) to knowledge management and material management.
