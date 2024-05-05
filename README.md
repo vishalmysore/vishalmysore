@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vishalmysore/vishalmysore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,22 +15,22 @@ Here are some ideas to get you started:
 
 ## About Me
 
-🚀 Experience: Proven background in designing and developing state-of-the-art cloud-native technical solutions tailored to meet business needs.
+🚀 **Experience**: Proven background in designing and developing state-of-the-art cloud-native technical solutions tailored to meet business needs.
 
-💡 Innovation: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.google.com/patent/US11924027B1/), and [Here](https://patents.google.com/patent/US11847046B1)
+💡 **Innovation**: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.google.com/patent/US11924027B1/), and [Here](https://patents.google.com/patent/US11847046B1)
 
-🌐 Current Focus: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
+🌐 **Current Focus**: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
 
-🔧 Technical Expertise: Key strengths include crafting technology roadmaps, designing platforms, and implementing automation solutions for intricate business workflows, resulting in cost savings and streamlined operations.
+🔧 **Technical Expertise**: Key strengths include crafting technology roadmaps, designing platforms, and implementing automation solutions for intricate business workflows, resulting in cost savings and streamlined operations.
 
-💼 Versatile Experience: Worked across diverse domains, from finance (capital markets) to knowledge management and material management.
+💼 **Versatile Experience**: Worked across diverse domains, from finance (capital markets) to knowledge management and material management.
 
-🏗️ Architectural Mastery: Created and managed the architecture of complex Web, SOA, and MOM-based applications.
+🏗️ **Architectural Mastery**: Created and managed the architecture of complex Web, SOA, and MOM-based applications.
 
-🔄 Cloud Migration: Played a pivotal role in migrating monolith applications to microservices and cloud-based architecture, employing microservices decomposition design patterns.
+🔄 **Cloud Migration**: Played a pivotal role in migrating monolith applications to microservices and cloud-based architecture, employing microservices decomposition design patterns.
 
 
-## Tools4AI
+## Tools4AI - Java and Artificial Intelligence 
 
 - **How to build AI Action Processor**: Execute actions based on prompt (OpenAI, Gemini, Anthropic) [here](https://www.linkedin.com/pulse/large-action-model-gemini-java-vishal-mysore-qki8c?trackingId=MuqKH2YZNwe74wisqhMSuw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
 - **Process images with Image Processor**: Trigger actions based on images [here](https://www.linkedin.com/pulse/image-recognition-function-calling-gemini-java-vishal-mysore-sz5zc?trackingId=lpJITsmYD0XPgdaG676jmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3Basc8boqLRvqWpXTf9SUEpA%3D%3D)
@@ -56,9 +54,9 @@ Here are some ideas to get you started:
 - **Hallucination Detector** [here](https://www.linkedin.com/pulse/detect-ai-hallucinations-rag-routing-branching-chaining-vishal-mysore-jrzic)
 - **Bias Detector** [here](https://www.linkedin.com/pulse/ai-bias-what-does-mean-vishal-mysore-0atsc)
 
-## Artificial Intelligence
+## BookOfAI - Python and Artificial Intelligence 
 
-## Examples
+# Examples
 
 | Example Name                                                                    | Level        | Description                                                                          | Link                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
