@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 **Experience**: Proven background in designing and developing state-of-the-art cloud-native technical solutions tailored to meet business needs.
 
-💡 **Innovation**: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.google.com/patent/US11924027B1/), and [Here](https://patents.google.com/patent/US11847046B1)
+💡 **Innovation**: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.google.com/patent/US11924027B1/), and [Here](https://patents.google.com/patent/US11847046B1) and [Here](https://lnkd.in/gpb7n23a)
 
 🌐 **Current Focus**: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
 
