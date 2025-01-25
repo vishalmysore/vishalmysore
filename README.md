@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 **Experience**: Proven background in designing and developing state-of-the-art cloud-native technical solutions tailored to meet business needs.
 
-💡 **Innovation**: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [Here](https://patents.justia.com/inventor/vishal-mysore), and [Here](https://patents.justia.com/inventor/vishal-row-mysore)
+💡 **Innovation**: Hold patents in field of Software Engineering and Artificial Intelligence, you can read about them  [here](https://patents.justia.com/inventor/vishal-mysore) and [here](https://patents.justia.com/inventor/vishal-row-mysore)
 
 🌐 **Current Focus**: Currently dedicated to building AI Powered Engineering Platforms for practical usage.
 
